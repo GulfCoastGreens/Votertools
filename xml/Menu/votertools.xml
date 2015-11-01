@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<menu>
+  <item>
+    <path>civicrm/exporter</path>
+    <page_callback>CRM_Votertools_Page_Exporter</page_callback>
+    <title>Exporter</title>
+    <access_arguments>access CiviCRM</access_arguments>
+  </item>
+</menu>
